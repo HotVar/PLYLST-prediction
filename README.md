@@ -5,8 +5,12 @@
 <br>
   
   ## 0. 학습 준비  
-  * 대회 제공 data와 학습 소스코드는 같은 경로에 위치  
-  (+ song titles의 형태소 정보인 ['train_title.csv'] 파일은 ubuntu 환경에서 별도로 생성하였음)  
+  ### 대회 제공 data와 학습 소스코드는 같은 경로에 위치  
+  * genre_gn_all.json  
+  * song_meta.json  
+  * train.json  
+  * test.json  
+  * train_title.csv(song titles의 형태소 정보인 ['train_title.csv'] 파일은 ubuntu 환경에서 별도로 생성하였음)  
   <br>  
   
   ## 1. 학습 방법  

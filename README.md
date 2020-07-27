@@ -28,6 +28,5 @@
   python submission.py
   ~~~  
   <br>  
-    
   * 최종 대회제출 결과물인 results.json파일 생성됨  
   
